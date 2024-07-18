@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="8.418" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="" name="" time="8.133">
+<system-out><![CDATA[
+Given To launch the chrome browser and hit the facebook url.................passed
+When To enter valid username in email field.................................passed
+And To enter invalid password in password field.............................passed
+And To click the login button...............................................passed
+Then to close the browser...................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
